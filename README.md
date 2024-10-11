@@ -1,0 +1,2 @@
+Swift for iOS Development
+This repository contains resources and exercises focused on Swift programming for iOS application development. It covers fundamental concepts such as syntax, control structures, data types, and object-oriented programming. The repository also includes practical projects and exercises that demonstrate building user interfaces, handling user input, and integrating with iOS frameworks. This collection serves as a comprehensive guide for mastering Swift and developing robust iOS applications.
